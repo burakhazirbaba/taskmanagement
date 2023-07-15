@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "title": "Pizza",
+      "taskDesc": "Eline bir dilim al ve ısır.",
+      "id": 1
+    },
+    {
+      "title": "Hamburger",
+      "taskDesc": "Çift cheddarlı sıcacık hamburgeri eline al ve ısır.",
+      "id": 2
+    }
+  ]
+}
