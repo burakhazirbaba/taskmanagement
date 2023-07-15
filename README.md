@@ -1,4 +1,4 @@
-# taskmanagement
+# TASK MANAGEMENT
 # Client
 ## npm install
 ## npm start
